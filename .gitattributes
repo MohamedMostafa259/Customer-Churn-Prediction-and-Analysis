@@ -1,0 +1,2 @@
+# This tells Git: "Treat .csv files as text and always use Unix-style line endings (LF) to avoid invisible changes"
+*.csv text eol=lf
