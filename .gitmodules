@@ -1,0 +1,3 @@
+[submodule "Milestone4_ModelDeployment/SmartChurnPredictor"]
+	path = Milestone4_ModelDeployment/SmartChurnPredictor
+	url = https://huggingface.co/spaces/mohamedmostafa259/SmartChurnPredictor
