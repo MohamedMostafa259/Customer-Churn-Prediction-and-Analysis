@@ -43,8 +43,8 @@ The project is organized into four main milestones:
 
 - Web application development using Gradio
 
-![app_screenshot1](visuals\app_screenshot1.png)
-![app_screenshot1](visuals\app_screenshot2.png)
+![app_screenshot1](https://github.com/MohamedMostafa259/Customer-Churn-Prediction-and-Analysis/blob/main/visuals/app_screenshot1.png?raw=true)
+![app_screenshot1](https://github.com/MohamedMostafa259/Customer-Churn-Prediction-and-Analysis/blob/main/visuals/app_screenshot2.png?raw=true)
 
 ## Project Organization
 
@@ -60,8 +60,8 @@ Each milestone contains:
 - During error analysis and exploratory modeling, I discovered that the original churn scores (1–5) exhibit two distinct behavioral groupings: 
     - Scores 1 & 2: Customers showing similar behavior patterns and low churn risk.
     - Scores 3, 4 & 5: Customers with higher churn tendencies.
-    ![days_since_last_login_by_churn_score](visuals\days_since_last_login_by_churn_score.png)
-    ![t-sne_segmentation](visuals\t-sne_segmentation.png)
+    ![days_since_last_login_by_churn_score](https://github.com/MohamedMostafa259/Customer-Churn-Prediction-and-Analysis/blob/main/visuals/days_since_last_login_by_churn_score.png?raw=true)
+    ![t-sne_segmentation](https://github.com/MohamedMostafa259/Customer-Churn-Prediction-and-Analysis/blob/main/visuals/t-sne_segmentation.png?raw=true)
 
 
 ## Future Improvements
